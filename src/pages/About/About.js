@@ -9,10 +9,13 @@ const About = () => {
       </div>
       <div className={styles.aboutBottom}>
         <h1>ABOUT US</h1>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam, perspiciatis veritatis
-          amet eum veniam asperiores beatae enim facilis maiores reiciendis quaerat inventore sint sunt
-          labore hic adipisci tempore odio laboriosam aut excepturi? Vitae ipsa excepturi officiis non
-          consequatur dolorum unde dolore ea, expedita cum, dolores optio eos fuga exercitationem iste.</p>
+        <p>Lorem ipsum dolor sit amet consectetur,
+          adipisicing elit. Debitis sit nostrum exercitationem,
+          error quisquam saepe dolorem nam et ipsa aperiam cum in,
+          voluptate a magnam commodi blanditiis nihil perferendis
+          vel harum, enim similique voluptatem quidem aut. Accusantium,
+          aliquam! Alias rerum odio sed libero iste laborum inventore
+          quia, provident laboriosam repellat.</p>
       </div>
 
     </div>

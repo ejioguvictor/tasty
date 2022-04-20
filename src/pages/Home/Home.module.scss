@@ -20,7 +20,7 @@
   justify-content: center;
   align-items: center;
   font-size: 90px;
-  height: 60px;
+  // height: 60px;
   font-weight: 50;
   color: black;
 }
@@ -30,15 +30,17 @@
   font-size: 40px;
   font-weight: lighter;
   color: black;
+  margin-bottom: 10px;
 }
 
 .headerContainer button {
   color: black;
   border: none;
-  border-radius: 5px;
+  border-radius: 8px;
   cursor: pointer;
   justify-content: center;
-  background-color: #121619;
+  // background-color: #121619;
+  background-color: rgb(23, 71, 84);
   height: 50px;
   width: 180px;
   color: white;
@@ -57,9 +59,6 @@
     justify-content: center;
     align-items: center;
   }
-  // .headerContainer h1,
-  // .headerContainer p {
-  // }
 
   .headerContainer {
     margin-left: 0px;
@@ -70,7 +69,8 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: #121619;
+    // background-color: #121619;
+    background-color: rgb(23, 71, 84);
     color: white;
   }
 
@@ -78,6 +78,7 @@
     font-size: 40px;
     height: 30px;
     color: white;
+    margin-bottom: 10px;
   }
 
   .headerContainer p {
@@ -92,7 +93,7 @@
   }
 
   .headerContainer button:hover {
-    background-color: rgb(225, 225, 225);
+    background-color: rgb(215, 195, 195);
     color: #121619;
   }
 }
